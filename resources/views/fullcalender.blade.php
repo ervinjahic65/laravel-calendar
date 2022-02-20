@@ -16,7 +16,7 @@
 <body>
 
 <div class="container">
-    <h1>Temeo calendar</h1>
+    <h1>Temeo calendar </h1>
     <div id='calendar'></div>
 </div>
 
